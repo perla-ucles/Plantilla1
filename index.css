@@ -1,0 +1,9 @@
+ .img{
+    position: absolute;
+    top: 28%;
+    right: 5%;
+    width: 310px;
+    height: 400px;
+    transform: skewY(5deg);
+    overflow: hidden;
+}
